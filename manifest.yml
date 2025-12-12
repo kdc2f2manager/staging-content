@@ -1,0 +1,3 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/kdc2f2manager/content-schema/refs/heads/main/schemas/manifest.schema.json
+topics:
+  - "defects"
