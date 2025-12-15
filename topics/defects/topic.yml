@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/kdc2f2manager/content-schema/refs/heads/main/schemas/topic.schema.json
 id: "cmj2wgt990003430v92wwh4e6"
-title: "Дефекты приемных"
-description: "### Дефекты приемных"
+title: "Дефекты приемов"
+description: "В данном разделе вы можете найти информацию о наиболее частых дефектах приемов"
 articles:
   - "defect-1"
